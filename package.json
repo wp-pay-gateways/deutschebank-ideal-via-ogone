@@ -1,6 +1,6 @@
 {
   "name": "deutschebank-ideal-via-ogone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deutsche Bank - iDEAL via Ogone driver for the WordPress payment processing library.",
   "repository": {
     "type": "git",
